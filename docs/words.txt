@@ -1,93 +1,98 @@
-  .oooooo.         .o.       ooooooooo.   ooooooooo.   oooooooooooo
- d8P'  `Y8b       .888.      `888   `Y88. `888   `Y88. `888'     `8
-888              .8"888.      888   .d88'  888   .d88'  888
-888             .8' `888.     888ooo88P'   888ooo88P'   888oooo8
-888            .88ooo8888.    888`88b.     888          888    "
-`88b    ooo   .8'     `888.   888  `88b.   888          888       o
- `Y8bood8P'  o88o     o8888o o888o  o888o o888o        o888ooooood8
+    .::::      .:::::::   .:::::::: .:::     .::
+  .::    .::   .::    .:: .::       .: .::   .::
+.::        .:: .::    .:: .::       .:: .::  .::
+.::        .:: .:::::::   .::::::   .::  .:: .::
+.::        .:: .::        .::       .::   .: .::
+  .::     .::  .::        .::       .::    .: ::
+    .::::      .::        .:::::::: .::      .::
+
+.::       .:: .:: .::    .:::::::           .:
+.::       .:: .:    .::  .::    .::        .: ::
+.::       .:: .:     .:: .::    .::       .:  .::
+.::       .:: .::: .:    .: .::          .::   .::
+.::       .:: .:     .:: .::  .::       .:::::: .::
+.::       .:: .:      .: .::    .::    .::       .::
+.:::::::: .:: .:::: .::  .::      .:: .::         .::
 
 
-AN ENDOWMENT FOR GOOD AND PROFIT
+GOOD CAPITAL
 
 1. Yes, We Took It
 --------------------------------------------------------------------
 
-Many years ago we hard-forked Facebook¹ out of Diem².
+Many years ago we hard-forked Facebook¹ out of Libra.
 
-2. To Fulfill the Promise of Good Capital
+2. To Realize the Promise of Good Capital
 --------------------------------------------------------------------
 
-We were originally attracted to blockchain for the promise of independent capital which would make the future arrive faster.
+We came to blockchain drawn by its early ideal, that capital could be unbounded: independent, accelerating, transformative.
 
-But crypto currencies are silly. And crypto now belongs to banks, ETFs, and hedge funds. Worse, the technology itself is in the rear-view mirror.
+Let’s be real, cryto's walk doesn't match the talk. The more sophisticated projects seek absorption into legacy finance—banking rails, ETF wrappers, asset desks. The bottom of the barrel is famously dishonorable.
 
-However, something meaningful is still possible with openly accessible, perpetually durable, hyper-liquid, high-leverage, rent-producing digital titles.
+The public watches in confusion. 
 
+And yet, we think something remarkable may have been uncovered along the way. What if these early systems were simply scaffolding for something more enduring?
 
-3. By Producing a Sensible Asset
+We see a post-crypto digital asset: an universally accessible, liquid, lasting, high-leverage title to real human endeavors.
+
+3. Rooted in a Principled Asset
 --------------------------------------------------------------------
+Prosperity does not arise from chance, or math. It emerges from saving toward endeavors not yet realized.
 
-$CARPE is an asset designed for one purpose: perpetual capital for good and profit.
+Through OpenLibra’s peer-to-peer experiments, participants have pledged, deferred, and redirected more than 90% of their earnings into forward-facing programs—initiatives that are both idealistic and economically sound.
 
-Prosperity comes from people saving and planning for transformation.
-
-Here at Carpe over the years our peer-to-peer games have made users save, pledge, defer, or donate nearly 90%+ of their earnings to future-looking programs. Programs seeking good and profit.
+$LBR is the title to all the games on OpenLibra. Initially as seed capital for perpetual endwoments for both good and gain.
 
 4. Which is Fiercely Independent
 --------------------------------------------------------------------
+We can make the right choices because we owe no one.
 
-We make correct choices because we don't owe anything to anyone.
+* Technically Sovereign *
+We are not beholden to smart contract platforms designed with different goals. Our stack is our own, built to last.
 
-*Government proof*
-Every coin was mined and no money ever raised.
+* Proof of Labor *
+There is no shell game, no empty cycle of promises. Outsized gains go to high impact contributions.
 
-*No legal entity*
-Yes to moral authority, meritocracy, and showing up everyday.
+* Without Investors *
+We have no exit to race toward. No quarterly metrics to chase. Our horizon is unhurried and vast.
 
-*Proof of Labor*
-No ponzinomics; let's play games the world wants to play.
+* Untouched by Government *
+Every $LBR was earned through mining. No pre-mine, no sale, no regulatory arbitrage.
 
-*Standalone tech*
-We won't be hostage to the political economy of ill-conceived smart contract platforms.
+* No Legal Wrapper *
+We work without incorporation—not out of neglect, but principle. Authority here is moral. Leadership is earned. Presence matters more than paperwork.
 
-*Hard pass, VCs*
-We have no rush, and infinite possibilities.
+* No Predators*
+We do not endorse capital games disguised as consensus—schemes where early insiders earn endlessly while latecomers subsidize their position. 
 
-5. Uses Modern Tools
+5. Grounded in Modern Tools
 --------------------------------------------------------------------
+A purpose-built Layer-1 blockchain secures the independence of $LBR.
 
-Having our own Layer-1 blockchain ensures $CARPE's independence.
+Since 2019, we’ve worked in the Move and Libra/Diem ecosystems; quietly, consistently, building institutional-grade infrastructure.
 
-We've been developing and running high performance Diem and Move blockchains platforms since 2019. The chain is meant to have all the smart contracts any person or institution would need to use, save, plan with $CARPE. It actively excludes any nonsense to distract us. Think $CARPE, not Blockchain.
+The result is a chain that supports smart contracts for anyone -- individual or institution -- wishing to store, grow, or distribute capital with intent.
 
-6. And Has Plans Measured in Centuries
+We're here for capital, not trying to find use-cases for a database. We leave behind distractions and dead weight customary of legacy blockchains.
+
+6. With Plans Measured in Centuries
 --------------------------------------------------------------------
+ 
+We are building across time with no end in sight. Not quarters or hype cycles, but generations.
 
-We play a long game that few have patience for.
+Beyond the market’s churn, there lies a calm resolve: capital designed for interventions that matter — for institutions not yet imagined, and entrepreneurs yet to be forged.
 
-On the other side of the desert exists dependable capital for interventions in society, for all future generations. ✊🌞
-
+We have the patience to build something lasting ✊🌞
 
 LINKS
---------------------------------------------------------------------
 
-Wallet:   https://github.com/0LNetworkCommunity/carpe
-Explorer: https://0l.fyi/
-Docs:     https://docs.openlibra.io/
-Papers:   https://docs.openlibra.io/archive/
-Code:     https://github.com/0LNetworkCommunity/libra-framework
+Wallet: https://github.com/0LNetworkCommunity/carpe
+Explorer: https://scan.openlibra.world
+Docs: https://docs.openlibra.io/
+Papers: https://docs.openlibra.io/archive/
+Code: https://github.com/0LNetworkCommunity/libra-framework
 
-[this text is a preview draft from 2025-03-04]
-
-
-
-
-
-
-
-
-
-
+[This is a preview draft dated 2025-06-11]
 
 
 
@@ -99,4 +104,3 @@ Code:     https://github.com/0LNetworkCommunity/libra-framework
 
 
 ¹ All your base are belong to us.
-² You knew us as OpenLibra
